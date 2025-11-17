@@ -12,6 +12,7 @@ Features
 
 Screenshots will be updated with project-specific data before final submission.
 
+
 Tech Stack
 Frontend: Java, XML
 Backend: Firebase Authentication, Firebase Realtime Database
