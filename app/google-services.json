@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300873239952",
+    "project_id": "aaharseva-a7b4f",
+    "storage_bucket": "aaharseva-a7b4f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300873239952:android:4cca7165a176d939ef7715",
+        "android_client_info": {
+          "package_name": "com.example.aahar100"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeIjp7lpECvY3UX1GGV9RhGCNfsxnY_p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
